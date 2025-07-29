@@ -30,7 +30,3 @@ Visualizaciones y análisis estadístico aplicado
 🤝 Conectemos
 Puedes contactarme a través de LinkedIn.
 Estoy abierto a nuevas oportunidades, colaboraciones y seguir aprendiendo en esta etapa como Data Analyst Jr. en formación.
-
-🛠️ Lenguajes y herramientas
-Python · SQL · Pandas · NumPy · Matplotlib · Seaborn
-Power BI · Tableau · Excel Avanzado · Jupyter Notebook
