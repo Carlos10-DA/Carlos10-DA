@@ -1,8 +1,5 @@
 ## ¡Hola! Soy Carlos — En transición al análisis de datos 👋
 
-<!--
-**Carlos10-DA/Carlos10-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Apasionado por la tecnología y el aprendizaje continuo, estoy actualmente en un proceso de transición profesional hacia el análisis de datos, un campo que descubrí por su capacidad de transformar información en soluciones estratégicas.
 
 Recientemente completé un bootcamp intensivo en análisis de datos en TripleTen, donde desarrollé más de 12 proyectos enfocados en la resolución de problemas reales utilizando herramientas como:
@@ -30,3 +27,7 @@ Visualizaciones y análisis estadístico aplicado
 🤝 Conectemos
 Puedes contactarme a través de LinkedIn.
 Estoy abierto a nuevas oportunidades, colaboraciones y seguir aprendiendo en esta etapa como Data Analyst Jr. en formación.
+
+<!--
+**Carlos10-DA/Carlos10-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
