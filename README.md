@@ -1,13 +1,15 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-<div>
-    <div align=center>
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Carlos+%F0%9F%91%8B;Data+Analyst+Jr" alt="Headline" />
-    </div>
+
+<div align="center" width="50">
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, ## ¡Hola! Soy Carlos — En transición al análisis de datos</h1>
 
 
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
 
 
 
@@ -75,9 +77,18 @@ Estoy abierto a nuevas oportunidades, colaboraciones y seguir aprendiendo en est
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;/carlos-popoca-aguila
-<a target="_blank" href="mailto:carlosg9410outlook.com.com"
+                                                                        
+
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;carlosg9410@outlook.com
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 
 
 
