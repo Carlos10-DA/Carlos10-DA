@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, ## ¡Hola! Soy Carlos — En transición al análisis de datos</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">## ¡Hola! Soy Carlos — En transición al análisis de datos</h1>
 
 
 <p align="center">
@@ -14,7 +14,6 @@
 
 
 
-## ¡Hola! Soy Carlos — En transición al análisis de datos 👋
 
 Apasionado por la tecnología y el aprendizaje continuo, estoy actualmente en un proceso de transición profesional hacia el análisis de datos, un campo que descubrí por su capacidad de transformar información en soluciones estratégicas.
 
