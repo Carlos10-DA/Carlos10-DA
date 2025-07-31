@@ -43,6 +43,7 @@ Dashboards interactivos en Power BI y Tableau
 Visualizaciones y análisis estadístico aplicado
 
 🤝 Conectemos
+
 Puedes contactarme a través de LinkedIn.
 Estoy abierto a nuevas oportunidades, colaboraciones y seguir aprendiendo en esta etapa como Data Analyst Jr. en formación.
 
