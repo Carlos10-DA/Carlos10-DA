@@ -30,6 +30,9 @@ Me interesa aplicar el análisis de datos para optimizar procesos, automatizar t
 
 Estoy construyendo un portafolio que refleje tanto mi aprendizaje como mis intereses, con proyectos en áreas como e-commerce, telecomunicaciones y análisis de bases de datos relacionales.
 
+Aqui se puede consultar algunos de mis proyectos realizados: https://github.com/Carlos10-DA/Portafolio-de-proyectos.git
+
+
 📁 ¿Qué encontrarás en este GitHub?
 Proyectos de análisis con Python y Pandas
 
